@@ -1,0 +1,9 @@
+name: CraftingRandomizer
+version: '${project.version}'
+main: net.melonenjoe.craftingrandomizer.Main
+api-version: '1.20'
+
+commands:
+  love:
+    description: "Shows Love to another Player"
+    usage: "/love <Spieler>"
