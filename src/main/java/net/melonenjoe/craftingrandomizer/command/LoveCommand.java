@@ -13,6 +13,10 @@ import java.util.List;
 
 public class LoveCommand implements CommandExecutor, TabCompleter {
 
+//
+// I KNOW, THE CODE IS SHIT
+//    
+
     @Override
     public boolean onCommand(CommandSender sender, Command command, String label, String[] args) {
 
